@@ -17,7 +17,7 @@ class Migration(migrations.Migration):
         ),
         migrations.AddField(
             model_name='post',
-            name='name',
+            name='likes',
             field=models.CharField(default='Anonymous', max_length=15, verbose_name='Name'),
         ),
     ]
