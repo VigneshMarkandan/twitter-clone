@@ -1,8 +1,8 @@
 # Twitter-clone
 This project is a minimalist Twitter clone built with Django, allowing users to post tweets, like tweets, and manage their content.
 ## Screenshot
-<img width="628" alt="Screenshot 2023-11-16 at 3 26 27 PM" src="https://github.com/VigneshMarkandan/twitter-clone/assets/148413864/87f61179-63b0-45b6-a196-ae73ec5bc409">
 
+<img width="985" alt="Screenshot 2023-11-17 at 3 11 12 PM" src="https://github.com/VigneshMarkandan/twitter-clone/assets/148413864/0c234097-d778-4e2b-8f06-e8a6e8da0494">
 
 ## Usage
 Visit the homepage and explore existing tweets.
